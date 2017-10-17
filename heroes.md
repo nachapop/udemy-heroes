@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * Héroe Atom
+* Otro Heroe
